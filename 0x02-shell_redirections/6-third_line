@@ -1,0 +1,2 @@
+#!/bin/bash
+head -p iacta | tail -p
